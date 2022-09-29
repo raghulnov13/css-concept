@@ -1,1 +1,22 @@
-htm
+.rgb h6{
+    background-color: rgb(255,40,60);
+    font-size: larger;
+}
+.rgba {
+    background-color: rgba(200, 100, 50, .5);
+}
+.rgb i{
+    font-size: 50px;
+    color: red;
+}
+.hex p{
+    background-color: #f0f;
+    
+}
+.border{
+    border-top-style: dotted;
+    border-bottom-style: groove;
+    border-left-color: #f0f;
+    border-left-style: double;
+    border-right: 2px solid green;
+}
