@@ -19,4 +19,8 @@
     border-left-color: #f0f;
     border-left-style: double;
     border-right: 2px solid green;
+
+}
+.gradient span{
+    background-image: linear-gradient(to right, red,yellow,green,pink);
 }
